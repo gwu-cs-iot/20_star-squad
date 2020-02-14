@@ -27,8 +27,14 @@ Created according to [this description.](https://github.com/gwu-iot/collaboratio
 ## Interfaces
 
 ![Image of our anticpacted overall interface](interface.png)
+
 ## Security
-How will security be considered? What specifically are we ignoring? This references a paper we haven't read yet reeeeeeeeee
+- Incoporate security at design phase - we are doing this by definition because we are considering these security issues at this early stage of the project, rather than trying to incoporate security into a machine that is already built
+- Security updates - the device's Internet capabilities can be disabled for repair without necessarily breaking the entire display (night sky maps can be downloaded for future reference but the display may not have all pollution data). Since this device needs to be in its controlled exhibition environment, this principle is not as big a concern -- we can physically discourage people from tampering with the disabled device if a security patch needs to be applied
+- Build on proven practices - **this does not apply** because our device can be physically operated on by its creators if it experiences a service disruption, by virtue of being more an art exhibition than a deployed service device
+- Prioritize measures according to potential impact - **this doesn't really apply**, again, because this device will not be deployed in an environment when its creators are not physically nearby to solve issues. Our priority will be to ensure that upkeep of the device occurs when people are not inside the display (to keep the experience as immersive as possible). If a service outage occurs when someone is viewing the exhibit, there is no danger or risk of personal harm. Thus, the measures are simply to leave the exhibit while we fix it.
+- Promote transparency - this project is open source with materials purchased on websites like Amazon. In theory, anyone could construct one of these. Vulnerability reports can be posted to this repository to alert anyone who is following the project of any changes.
+- Connect carefully and deliberately - **this does not apply** because, for our exhibit to have full impact, it needs to be connected to the Internet for as long as it is on. However, this isn't risky because as soon as the exhibit is no longer being displayed, it can be fully shut down, thereby preventing hackers from using it as part of a DDoS attack if they somehow managed to gain access while the device was operating.
 
 ## Component Assignment
 1. Rick
