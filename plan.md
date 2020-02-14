@@ -16,7 +16,8 @@ have a plan on how to make the flip clock interface
 what api will be used for constellations, and what digital manipulation can be done on an image to brighten or dim it
 
 ## Interfaces
-How do our individual pieces talk to each other?
+
+![Image of our anticpacted overall interface](interface.png)
 
 ## Security
 How will security be considered? What specifically are we ignoring? This references a paper we haven't read yet reeeeeeeeee
