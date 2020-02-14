@@ -10,11 +10,19 @@ Created according to [this description.](https://github.com/gwu-iot/collaboratio
 6. Construction: building the projection surface and curtain frame to create a controlled environment for the user so that the experience is as immersive as possible.
 
 ## Timeline
-What specifically will be done by both checkpoints
-apis and documentation
-definite schematic of how to integrate all the actuators together
-have a plan on how to make the flip clock interface
-what api will be used for constellations, and what digital manipulation can be done on an image to brighten or dim it
+**Checkpoint 1**
+1. Have software written to map an input angle (probably via terminal) to a longitude, based on an intial longitude value
+2. Have a definite schematic of how the clock interface will be built/function
+3. Make a list of all existing APIs for the project and determine what needs to be written from scratch
+4. Determine an API to get constellations online, and what kind of digital manipulation can be done to an image to create realistic brightening effects based on light pollution
+5. Have a definite schematic of how all the actuators will connect to the main controller
+
+**Checkpoint 2**
+1. Have the globe done
+2. Have the clock done
+3. Have data moving from Computing I to Pollution Visualization and creating some actuation (only one type of pollution is not accounted for yet)
+4. Projector works but image is not necessarily warped to match the projection surface
+5. See 3)
 
 ## Interfaces
 
