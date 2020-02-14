@@ -10,6 +10,8 @@ Created according to [this description.](https://github.com/gwu-iot/collaboratio
 6. Construction: building the projection surface and curtain frame to create a controlled environment for the user so that the experience is as immersive as possible.
 
 ## Timeline
+Each number corresponds to a component of the project listed above. For example 1) refers to tasks for Location Determination.
+
 **Checkpoint 1**
 1. Have software written to map an input angle (probably via terminal) to a longitude, based on an intial longitude value
 2. Have a definite schematic of how the clock interface will be built/function
