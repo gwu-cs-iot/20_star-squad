@@ -18,7 +18,6 @@ what api will be used for constellations, and what digital manipulation can be d
 ## Interfaces
 
 ![Image of our anticpacted overall interface](interface.png)
-
 ## Security
 How will security be considered? What specifically are we ignoring? This references a paper we haven't read yet reeeeeeeeee
 
