@@ -7,6 +7,7 @@ Created according to [this description.](https://github.com/gwu-iot/collaboratio
 3. Computing I: in charge of the "internet" aspect. This role is in charge of using existing APIs or writing new APIs to gather information about the viewable night sky, air pollution, noise pollution, global temperature, and constellations based on the input coordinates and time.
 4. Computing II: in charge of creating the image to be projected on the screen. Will use the star positions and light pollution data produced Computing I to create an image of the night sky over the selected location, lightened or darkened depending on light pollution data gathered from the Internet. This image will need to be digitally formatted to match the shape of the projection surface before sending this image to the projector. This computation should be done efficiently so it can be projected with a high refresh rate.
 5. Pollution Visualization: this component will be in charge of actuation. Using data on pollution gathered by Computing I, fog will be produced to represent air pollution. Warm lights will be projected on the globe to represent heat pollution. City sounds will be played through speakers to represent noise pollution.
+6. Construction: building the projection surface and curtain frame to create a controlled environment for the user so that the experience is as immersive as possible.
 
 ## Timeline
 What specifically will be done by both checkpoints
@@ -22,4 +23,9 @@ what api will be used for constellations, and what digital manipulation can be d
 How will security be considered? What specifically are we ignoring? This references a paper we haven't read yet reeeeeeeeee
 
 ## Component Assignment
-Who's doing what
+1. Rick
+2. Becky
+3. Lily
+4. Rachell
+5. Tuhina
+6. We will all meet up for a couple hours very soon after Checkpoint II to knock this out
