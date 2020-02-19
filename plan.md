@@ -47,4 +47,4 @@ Each number corresponds to a component of the project listed above. For example 
 6. We will all meet up for a couple hours very soon after Checkpoint II to knock this out
 
 ## Hardware List
-[Here's the spreadsheet of parts we'd like to order eventually](https://docs.google.com/spreadsheets/d/1iuRxYs5rhhG6nRkUcJrNUFyvOJPkEIpY2FQv3P9VIkU/edit#gid=0)
+[Here's the spreadsheet of parts we'd like to order eventually](https://docs.google.com/spreadsheets/d/1sid9kRepjA9d2olELjUwhC4QWxLPoXIVlw6AmRF54p0/edit#gid=0)
